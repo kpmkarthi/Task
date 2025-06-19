@@ -23,6 +23,8 @@ const SignIn = () => {
 
     return (
         <View style={{ flex: 1 }}>
+
+
             <Text>Log In</Text>
             <Text>Enter your Email and Password</Text>
             <Input
